@@ -32,13 +32,9 @@
 
 <br />
 
-### I'm listening too:
+### I'm listening to:
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=calicheccmusica&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
-
-<br />
-
-[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.vercel.app/api/view.svg?uid=calicheccmusica&cover_image=true&theme=default)]]
+[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.vercel.app/api/view.svg?uid=calicheccmusica&cover_image=true&theme=compact)]]
 
 [linkedin]: https://linkedin.com/in/carloscaicedocodes
 
