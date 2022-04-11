@@ -7,11 +7,11 @@
 
 - 🔭 Recently I graduated from an intensive and amazing Software Development Bootcamp at Coding Dojo
 - 🌱 I'm an avid and quick learner with a curious mind. I'm currently learning Material UI. 
-- 🥅 I speak 4 languages: English, Spanish, French & Catala. 
+- 🥅 I speak 4 languages: English, Spanish, French & Catalan. 
 - 💬 Ask me about where my accent is from
-- 👯 I'm a proud father of two beautiful twin girls called Emiliana & Mariela
+- 👯 I'm a proud father of beautiful baby twin girls
 - 📫 You can reach me at: [Linkedin] (https://www.linkedin.com/in/carloscaicedocodes/) 
-- ⚡ Fun fact: I love to play the guitar and make sourdough bread. 
+- ⚡ Fun fact: I love to play flamenco guitar and make sourdough bread. 
 - 😄 Pronouns: He/Him
 
 <!-- ### Connect with me: -->
