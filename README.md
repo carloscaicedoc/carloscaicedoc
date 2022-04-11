@@ -6,7 +6,7 @@
 ### I'm a Developer, Teacher, Entrepeneur, Father of Twins and Guitarist!
 
 - 🔭 Recently I graduated from an intensive and amazing Software Development Bootcamp at Coding Dojo
-- 🌱 I'm an avid and quick learner with a curious mind. I'm currently learning Materail UI. 
+- 🌱 I'm an avid and quick learner with a curious mind. I'm currently learning Material UI. 
 - 🥅 I speak 4 languages: English, Spanish, French & Catala. 
 - 💬 Ask me about where my accent is from
 - 👯 I'm a proud father of two beautiful twin girls called Emiliana & Mariela
