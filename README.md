@@ -32,6 +32,11 @@
 
 <br />
 
+### Connect with me at:
+
+[<img align="left" alt="Linked-in" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />][linkedin]
+
+
 ### I'm listening to:
 
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=calicheccmusica&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile) -->
