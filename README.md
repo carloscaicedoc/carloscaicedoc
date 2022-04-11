@@ -34,8 +34,7 @@
 
 ### I'm listening to:
 
-[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.vercel.app/api/view.svg?uid=calicheccmusica&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)]]
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=calicheccmusica&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 
