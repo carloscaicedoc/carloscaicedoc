@@ -36,5 +36,7 @@
 
 [[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.vercel.app/api/view.svg?uid=calicheccmusica&cover_image=true&theme=compact)]]
 
+
+
 [linkedin]: https://linkedin.com/in/carloscaicedocodes
 
