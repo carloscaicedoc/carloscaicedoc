@@ -1,7 +1,6 @@
 ## Hi there, I'm Carlos a Full Stack Software Developer 👋
 
 <!-- ![](https://github.com/MishManners/MishManners/blob/master/MishManners%20Room%20animated.gif) -->
-![](https://giphy.com/gifs/tech-computing-metaverse-9iv4ErObYQvrW)
 <!-- <iframe src="https://giphy.com/embed/9iv4ErObYQvrW" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/tech-computing-metaverse-9iv4ErObYQvrW">via GIPHY</a></p> -->
 
 ### I'm a Developer, Teacher, Entrepeneur, Father of Twins and Guitarist!
@@ -11,7 +10,7 @@
 - 🥅 I speak 4 languages: English, Spanish, French & Catala. 
 - 💬 Ask me about where my accent is from
 - 👯 I'm a proud father of two beautiful twin girls called Emiliana & Mariela
-- 📫 You can reach through: [Linkedin] (https://www.linkedin.com/in/carloscaicedocodes/) 
+- 📫 You can reach me at: [Linkedin] (https://www.linkedin.com/in/carloscaicedocodes/) 
 - ⚡ Fun fact: I love to play the guitar and make sourdough bread. 
 - 😄 Pronouns: He/Him
 
@@ -30,6 +29,10 @@
 [<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][linkedin]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][linkedin]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][linkedin]
+
+### I'm listening too:
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22a52oj3e5hnylnh2ua2e6loy&cover_image=true&theme=novatorem&bar_color=24b6f5&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 [linkedin]: https://linkedin.com/in/carloscaicedocodes
