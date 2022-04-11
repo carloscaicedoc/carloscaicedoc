@@ -1,6 +1,6 @@
-### Hi there, I'm Carlos a Full Stack Software Developer 👋
+## Hi there, I'm Carlos a Full Stack Software Developer 👋
 
-## I'm a Developer, Teacher, Entrepeneur, Father of Twins and Guitarist!
+### I'm a Developer, Teacher, Entrepeneur, Father of Twins and Guitarist!
 
 <!--
 **carloscaicedoc/carloscaicedoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,10 +11,9 @@ Here are some ideas to get you started: -->
 - 👯 I'm a proud father that of two beautiful twin girls called Emiliana & Mariela
 - 🥅 I speak 4 languages: English, Spanish, French & Catala. 
 - 💬 Ask me about where my accent is from
-- 🤔 I’m looking for help with ...
-- 📫 You can reach through: [Linkedin] (https://www.linkedin.com/in/carloscaicedocodes/)
-- 😄 Pronouns: He/Him 
+- 📫 You can reach through: [Linkedin] (https://www.linkedin.com/in/carloscaicedocodes/) 
 - ⚡ Fun fact: I love to play the guitar and make sourdough bread. 
+- 😄 Pronouns: He/Him
 
 ### Connect with me:
 
