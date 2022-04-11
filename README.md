@@ -1,4 +1,4 @@
-## Hi there, I'm Carlos a Full Stack Software Developer 👋
+## Hi there, I'm Carlos, a Full Stack Software Developer 👋
 
 <!-- ![](https://github.com/MishManners/MishManners/blob/master/MishManners%20Room%20animated.gif) -->
 <!-- <iframe src="https://giphy.com/embed/9iv4ErObYQvrW" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/tech-computing-metaverse-9iv4ErObYQvrW">via GIPHY</a></p> -->
