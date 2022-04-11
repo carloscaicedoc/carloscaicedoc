@@ -8,14 +8,14 @@ Here are some ideas to get you started: -->
 
 - 🔭 Recently I graduated from an intensive and amazing Software Bootcamp at Coding Dojo
 - 🌱 I'm an avid and quick learner with a curious mind. I'm currently learning Materail UI. 
-- 👯 I'm a proud father that of two beautiful twin girls called Emiliana & Mariela
 - 🥅 I speak 4 languages: English, Spanish, French & Catala. 
 - 💬 Ask me about where my accent is from
+- 👯 I'm a proud father of two beautiful twin girls called Emiliana & Mariela
 - 📫 You can reach through: [Linkedin] (https://www.linkedin.com/in/carloscaicedocodes/) 
 - ⚡ Fun fact: I love to play the guitar and make sourdough bread. 
 - 😄 Pronouns: He/Him
 
-### Connect with me:
+<!-- ### Connect with me: -->
 
 <!-- &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/carloscaicedocodes#gh-light-mode-only)
