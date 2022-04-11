@@ -1,5 +1,7 @@
 ## Hi there, I'm Carlos a Full Stack Software Developer 👋
 
+![](https://github.com/MishManners/MishManners/blob/master/MishManners%20Room%20animated.gif)
+
 ### I'm a Developer, Teacher, Entrepeneur, Father of Twins and Guitarist!
 
 - 🔭 Recently I graduated from an intensive and amazing Software Bootcamp at Coding Dojo
@@ -26,7 +28,6 @@
 [<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][linkedin]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][linkedin]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][linkedin]
-[<img align="left" alt="Postman" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" style="padding-right:10px;" />][linkedin]
 
 
 [linkedin]: https://linkedin.com/in/carloscaicedocodes
